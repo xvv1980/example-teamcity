@@ -1,4 +1,0 @@
-Version: 2024.07.1
-Build number: 160635
-Data format version: 1008
-Metadata format version: 3
